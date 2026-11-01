@@ -68,10 +68,10 @@ The process images received only generic labels and should not be called Cridex;
 
 | | |
 |---|---|
-| ![VirusTotal explorer injected](images/vt_explorer_injected_region.png) | ![VirusTotal reader_sl injected](images/vt_reader_sl_injected_region.png) |
+| ![VirusTotal explorer injected](vt_explorer_injected_region.png) | ![VirusTotal reader_sl injected](vt_reader_sl_injected_region.png) |
 | VirusTotal: region injected into `explorer.exe` | VirusTotal: region injected into `reader_sl.exe` |
 
-More screenshots (VirusTotal for the process images and ipinfo.io lookups) are in the [`images`](images) folder.
+More screenshots: VirusTotal for the process images ([explorer.exe](vt_explorer_process_image.png), [reader_sl.exe](vt_reader_sl_process_image.png)) and ipinfo.io lookups ([41.168.5.140](ipinfo_41.168.5.140.png), [125.19.103.198](ipinfo_125.19.103.198.png), [188.40.0.138](ipinfo_188.40.0.138.png)).
 
 ## Limitations
 
