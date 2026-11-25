@@ -3,7 +3,7 @@
 Analysis of a Windows XP memory image captured after a spearphishing incident, using the **Volatility Framework 2.6**.
 The full write-up is in [`Memory_Forensics_Cridex_Case_Study.pdf`](Memory_Forensics_Cridex_Case_Study.pdf).
 
-**Author:** Shahad Mansour Alhazmi
+**Author:** Shahad Mansour Alharbi
 
 ## Scenario
 
